@@ -1,0 +1,57 @@
+body
+{   
+}
+
+.content 
+{  
+}
+
+.content .demo span
+{
+    transition: 1s;
+}
+
+.content p span
+{
+    transition: 0.5s;
+    
+}
+
+
+.content h1 span
+{   
+    transition: 0.5s;
+    
+}
+
+.content h2 span
+{  
+    transition: 0.5s;
+    
+}
+
+.content h3 span
+{
+    transition: 0.5s;   
+    
+}
+
+.content h4 span
+{  
+    transition: 0.5s;
+   
+}
+
+.content h5 span
+{
+    transition: 0.5s;
+    
+}
+
+
+.content h6 span
+{
+    
+    transition: 0.5s;
+    
+}
