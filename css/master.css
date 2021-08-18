@@ -6,7 +6,7 @@ html, body {
 }
 
 body {
-     background: url(./../img/black.gif) no-repeat 50% 50%;
+     background: url(./../leyenda/assets/i11y1.png) no-repeat 50% 50%;
      
      background-size: cover;
 }
@@ -93,3 +93,4 @@ a {
      color: #fff;
      font-family: Poppins;
 }
+
